@@ -12,7 +12,7 @@ public class Student {
 	}
 	
 	/*
-	 * Getters and setters
+	 * Getters and setters/
 	 */
 	public int getRollNumber() {
 		return rollNumber;
