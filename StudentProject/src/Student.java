@@ -10,6 +10,10 @@ public class Student {
 		this.rollNumber = rollNumber;
 		this.name = name;
 	}
+	
+	/*
+	 * Getters and setters
+	 */
 	public int getRollNumber() {
 		return rollNumber;
 	}
